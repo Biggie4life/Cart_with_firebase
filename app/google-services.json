@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "306066776893",
+    "project_id": "cart-with-firebase",
+    "storage_bucket": "cart-with-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306066776893:android:8c2acdf51a539fac569b54",
+        "android_client_info": {
+          "package_name": "com.example.cartwithfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOy3Gm60IFHCc05vHTpm6HCLAW1OUwQNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
